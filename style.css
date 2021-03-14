@@ -1,10 +1,10 @@
 body {
     background-image: url("hackerpoes.jpg");
     background-repeat: repeat;
-    background-size: 2% auto;
+    background-size: 50px auto;
   }
 
 img.poes {
-    width: 2%;
+    width: 20px;
     height: auto;
 }
