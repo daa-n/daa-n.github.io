@@ -4,7 +4,7 @@ body {
     background-size: 50px auto;
   }
 
-img.poes {
-    width: 20px;
-    height: auto;
-}
+  h1.main {
+    color: yellow;
+    font-family: "Comic Sans MS"
+  }
